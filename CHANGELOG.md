@@ -2,6 +2,7 @@
  - Update to Flutter 3.22.0
  - feat: adding `NesDropdownMenu`
  - feat: adding `NesContainer.borderColor` to allow customizing the border color.
+ - feat: adding `NesDpad`
 
 # 0.20.0
  - feat: adding different frames to `NesDialog`s
